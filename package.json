@@ -1,0 +1,22 @@
+{
+  "name": "rbtree",
+  "version": "1.0.0",
+  "description": "An Implementation of a Red-Black Tree in JavaScript.",
+  "main": "index.js",
+  "author": "Eddy Bruel",
+  "license": "MIT",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejpbruel/rbtree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ejpbruel/rbtree/issues"
+  },
+  "homepage": "https://github.com/ejpbruel/rbtree#readme",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
